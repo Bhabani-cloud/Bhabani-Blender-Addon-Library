@@ -2,7 +2,7 @@ bl_info = {
     "name": "Collection Visibility Isolator",
     "blender": (4, 4, 0),
     "category": "3D View",
-    "author": "ChatGPT",
+    "author": "Bhabani Tudu",
     "description": "Shift+1-9: Isolate collections | Shift+Q: Toggle addon | Pinned collections stay visible"
 }
 
